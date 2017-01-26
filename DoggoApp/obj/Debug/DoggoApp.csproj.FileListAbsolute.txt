@@ -1,0 +1,9 @@
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\bin\Debug\DoggoApp.exe.config
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\bin\Debug\DoggoApp.exe
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\bin\Debug\DoggoApp.pdb
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.Properties.Resources.resources
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.csproj.GenerateResource.Cache
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.exe
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.pdb
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.Doggo.resources
+c:\users\carev\documents\visual studio 2015\Projects\DoggoApp\DoggoApp\obj\Debug\DoggoApp.csprojResolveAssemblyReference.cache
